@@ -15,4 +15,4 @@ $ git commit -m "wrote a readme file(提交的说明文字)"
 要随时掌握工作区的状态，使用git status命令。
 
 如果git status告诉你有文件被修改过，用git diff可以查看修改内容。
-why I don't right!
+git log 可以看到修改过的各个版本
